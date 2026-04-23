@@ -27,5 +27,5 @@ export OPENWEATHER_API_KEY="your_api_key_here"
 
 ```bash
 source .venv311/bin/activate.fish
-python main.py
+python weather_bot.py
 ```
