@@ -12,7 +12,7 @@
 uv python install 3.11
 uv venv --python 3.11 .venv311
 source .venv311/bin/activate.fish
-uv pip install "aiogram==2.*"
+uv pip install -r requirements.txt
 ```
 
 ## Секреты
